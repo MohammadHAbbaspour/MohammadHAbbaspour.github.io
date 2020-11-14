@@ -11,6 +11,6 @@ comments: false
 
 |           | **Current**                    |
 |----|------|--------------------------------|
-|2020|      | **[sololearn/Python](https://www.sololearn.com/Course/Python/]**
+|2020|      | **[sololearn/Python](https://www.sololearn.com/Course/Python/**
 |----|------|--------------------------------|
 |2020|      | **[Typing](https://www.typingclub.com/)**
