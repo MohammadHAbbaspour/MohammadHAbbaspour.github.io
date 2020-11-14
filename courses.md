@@ -13,4 +13,4 @@ comments: false
 |----|------|--------------------------------|
 |2019|      | **<a href="">Computer Programming Fundamentals</a>**         |
 |----|------|--------------------------------|
-|2020|------| **<a href="">Sololearn / Python</a>**
+|2020|      | **<a href="">Sololearn / Python</a>**
