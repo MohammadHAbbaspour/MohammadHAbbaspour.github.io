@@ -119,7 +119,7 @@ author:
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-       url: m_abbaspoor80@comp.iust.ac.ir
+       url: "m_abbaspoor80@comp.iust.ac.ir"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
