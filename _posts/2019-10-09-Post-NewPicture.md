@@ -12,7 +12,7 @@ kfajdskfajsdf sakd fjksad jfksdj fksdj f
 
 
 
-![alt text](../assets/images/grouppic.jpg "Team Picture")
+![alt text]
 
 ---
 **Test**: 
