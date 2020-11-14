@@ -13,7 +13,7 @@
 #theme                  : "minimal-mistakes-jekyll"
 remote_theme: "mmistakes/minimal-mistakes@4.16.0"
 # remote_theme           : "mmistakes/minimal-mistakes"
-minimal_mistakes_skin    : "neon" #"default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+minimal_mistakes_skin    : "Slate" #"neon" #"default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
 locale                   : "en-US" 
@@ -111,7 +111,7 @@ author:
   avatar           : "My Photo.jpg"
   bio              : "Co_Engineering Student In IUST , Interested In Sport And Teamwork" 
   location         : "تهران"
-  email            : sauleh@gmail.com
+  email            : m_abbaspoor80@comp.iust.ac.ir
   twitter: 
   linkedin: 
   google_scholar: Q25s5KkAAAAJ
