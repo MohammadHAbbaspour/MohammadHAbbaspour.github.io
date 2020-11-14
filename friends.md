@@ -9,10 +9,10 @@ comments: true
 ---
  
  همکلاسی‌ها
-* Sina Zamani
+* [Sina Zamani](https://sinazamani9364.github.io/)
 * Ali Attarian
-* Sina Alinejad
-* Mahdi Hosseinizade 
+* [Sina Alinejad](https://sinaalinejad.github.io/)
+* [Mahdi Hosseinizade](https://seyedmahdihosseinizade.github.io/) 
  
 
 
