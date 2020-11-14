@@ -3,14 +3,14 @@ layout: single
 author_profile: true
 permalink: /links/
 title: Links
-tags: [Studying, courses]
+tags: 
 modified: 9-14-2019
 comments: false
 ---
 
 
-* [Favorite Author](http://myfavoritauthor.com)
-* [Places I want to visit](http://iwanttovisit.com)
-* [My home city](http://homecity.com)
-* [My university](http://myuniversity.com)
+*  **[Favorite Actor](https://www.imdb.com/name/nm0004874/)**
+*  **[Space Footballer](https://www.transfermarkt.com/lionel-messi/profil/spieler/28003)**
+*  **[My University](http://www.iust.ac.ir/)**
+*  **[My College](http://ce.iust.ac.ir/)**
 

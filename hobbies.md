@@ -9,6 +9,6 @@ comments: false
 ---
 
 
-* |**[pes](https://www.konami.com/wepes/2020/eu/en/pc/)**
+* |**[PES](https://www.konami.com/wepes/2020/eu/en/pc/)**
 
 
