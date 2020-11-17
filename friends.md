@@ -10,7 +10,7 @@ comments: true
  
  همکلاسی‌ها
 * [Sina Zamani](https://sinazamani9364.github.io/)
-* Ali Attarian
+* [Ali Attarian](https://ali26att.github.io/)
 * [Sina Alinejad](https://sinaalinejad.github.io/)
 * [Mahdi Hosseinizade](https://seyedmahdihosseinizade.github.io/) 
  
