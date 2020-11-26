@@ -10,7 +10,7 @@ comments: false
 
 
 * |**[PES](https://www.konami.com/wepes/2020/eu/en/pc/)**
-* |**[Studing]**
-* |**[Watching moveis]**
+* |**Studing**
+* |**Watching moveis**
 
 
