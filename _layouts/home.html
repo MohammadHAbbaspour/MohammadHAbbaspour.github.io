@@ -1,6 +1,17 @@
 ---
 layout: archive
 ---
+
+{{ content }}
+
+<h3 class="archive__subtitle">{{ site.data.ui-text[site.locale].recent_posts | default: "Recent Posts" }}</h3>
+
+{% for post in paginator.posts %}
+  {% include archive-single.html %}
+{% endfor %}
+
+{% include paginator.html %}
+
 ## HOW TO PLAY PES
 Looking to improve your skills in the latest PES? Check out these key tips:
 1. Master the new ‘Stadium’ camera angle
@@ -17,12 +28,3 @@ Looking to improve your skills in the latest PES? Check out these key tips:
 
 ![pes](../assets/images/og_pes2020.png "pes picture")
 ---
-{{ content }}
-
-<h3 class="archive__subtitle">{{ site.data.ui-text[site.locale].recent_posts | default: "Recent Posts" }}</h3>
-
-{% for post in paginator.posts %}
-  {% include archive-single.html %}
-{% endfor %}
-
-{% include paginator.html %}
