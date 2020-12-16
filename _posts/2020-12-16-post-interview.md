@@ -1,7 +1,7 @@
 ---
 layout: posts
 comments: true
-title:interview with graduate
+title: گفتگو با فارغ التحصیل
 ---
 ---
 
@@ -28,7 +28,3 @@ title:interview with graduate
 و نکته آخر این بود که فقط به آموزش هایی که در دانشگاه داده میشود اتکا نکنم و چون رشته ی کامپیوتر رشته ی بروزی هست
 
 به دنبال مطالب جدید تر بروم
-
----
-
-![]
