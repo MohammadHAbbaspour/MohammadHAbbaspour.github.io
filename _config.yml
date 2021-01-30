@@ -115,7 +115,6 @@ author:
   linkedin         : mohammad-hossein-abbaspour
   google_scholar: Q25s5KkAAAAJ
   github: MohammadHAbbaspour
-  Calendly : https://calendly.com/m_abbaspoor80
   instagram: mohammadh_abp
   links:
     - label: "Email"
@@ -162,7 +161,7 @@ footer:
       # url:
     - label: "Calendly"
       icon: "fas fa-calendar-alt"
-      #url: 
+      #url: "https://calendly.com/m_abbaspoor80"
 
 
 # Reading Files
