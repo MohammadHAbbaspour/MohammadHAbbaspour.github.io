@@ -6,3 +6,5 @@ title: Gallery
 tags: 
 modified: 9-14-2019
 comments: false -->
+
+/assets/images/2.jpg
