@@ -1,11 +1,11 @@
 ---
 layout: page
 title: NQueens
-description: This project is for AI course and solved by Hill Climbing algorithm
+description: This project is for AI course and solved by Hill Climbing algorithm.
 img: assets/img/nqueens.png
 importance: 7
 category: University
-github: https://github.com/MohammadHAbbaspour/AI/tree/main/NQueens
+url: https://github.com/MohammadHAbbaspour/AI/tree/main/NQueens
 related_publications: false
 ---
 Every project has a beautiful feature showcase page.
