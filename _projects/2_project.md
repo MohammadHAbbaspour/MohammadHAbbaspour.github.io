@@ -1,6 +1,6 @@
 ---
 layout: page
-title: NQueens
+title: Pacman
 description: This project is for AI course and solved by MiniMax/ExpectiMax algorithm.
 img: assets/img/pacman.png
 importance: 2
