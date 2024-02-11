@@ -109,9 +109,9 @@
 {% if site.huggingface_username %}
   <a href="https://huggingface.co/{{ site.huggingface_username }}" title="Huggingface"><i class="fab fa-hugging-face"></i></a>
 {% endif %}
-{% if site.rss_icon %}
+{% comment %} {% if site.rss_icon %}
   <a href="{{ site.baseurl }}/feed.xml" title="RSS Feed"><i class="fa-solid fa-square-rss"></i></a>
-{% endif %}
+{% endif %} {% endcomment %}
 {% if site.wechat_qr %}
   <a id="WeChatBtn" title="WeChat"><i class="fa-brands fa-weixin"></i></a>
   <div id="WeChatMod" class="wechat-modal">
