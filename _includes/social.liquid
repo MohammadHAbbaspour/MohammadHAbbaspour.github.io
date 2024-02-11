@@ -106,6 +106,9 @@
 {% if site.zotero_username %}
   <a href="https://www.zotero.org/{{ site.zotero_username }}" title="Zotero"><i class="ai ai-zotero"></i></a>
 {% endif %}
+{% if site.huggingface_username %}
+  <a href="https://huggingface.co/{{ site.huggingface_username }}" title="Huggingface"><i class="fab fa-hugging-face"></i></a>
+{% endif %}
 {% if site.rss_icon %}
   <a href="{{ site.baseurl }}/feed.xml" title="RSS Feed"><i class="fa-solid fa-square-rss"></i></a>
 {% endif %}
