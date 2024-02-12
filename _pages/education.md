@@ -4,8 +4,7 @@ permalink: /edu/
 title: Education
 description: List of my education
 nav: true
-nav_order: 3
-
+nav_order: 2
 ---
 |2020 , 2024 |    **B.Sc** in Computer Engineering with concentration on AI
 
