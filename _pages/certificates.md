@@ -5,7 +5,13 @@ permalink: /certificates/
 description: List of my certificates
 nav: true
 nav_order: 3
+display_categories: [NLP, Deep Learning, Machine Learning]
+horizontal: false
 ---
+
+<a id="NLP" href=".#NLP">
+  <h2 class="category">NLP</h2>
+</a>
 ---
 
 * **[Natural Language Processing Specialization](https://www.coursera.org/account/accomplishments/specialization/certificate/JYCVFMLJVJ7Q)**
