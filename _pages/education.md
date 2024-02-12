@@ -2,7 +2,8 @@
 layout: page
 permalink: /edu/
 title: Education
-description: List of my education
+description: 
+show: false
 nav: true
 nav_order: 2
 ---

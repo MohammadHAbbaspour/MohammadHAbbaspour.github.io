@@ -2,9 +2,10 @@
 layout: page
 title: Certificates
 permalink: /certificates/
-description: List of my certificates.
+description: 
 nav: true
 nav_order: 3
+show: true
 display_categories: [NLP, Deep Learning, Machine Learning]
 horizontal: false
 ---

@@ -3,8 +3,9 @@ layout: page
 title: Projects
 permalink: /projects/
 description: A growing collection of my projects.
+show: true
 nav: true
-nav_order: 4
+nav_order: 5
 display_categories: [University Courses]
 horizontal: false
 ---
