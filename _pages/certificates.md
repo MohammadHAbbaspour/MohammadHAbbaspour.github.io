@@ -5,14 +5,12 @@ permalink: /certificates/
 description: List of my certificates
 nav: true
 nav_order: 3
-display_categories: [NLP, Deep Learning, Machine Learning]
-horizontal: false
 ---
 
+<div class="certificates">
 <a id="NLP" href=".#NLP">
-  <h2 class="category">NLP</h2>
+    <h2 class="category">NLP</h2>
 </a>
----
 
 * **[Natural Language Processing Specialization](https://www.coursera.org/account/accomplishments/specialization/certificate/JYCVFMLJVJ7Q)**
   * Coursera
@@ -39,3 +37,13 @@ horizontal: false
   * Coursera
   * Issued September 2024
   * Credential ID: SQVWC2W2FMKU
+
+---
+
+* **[Natural Language Processing with Probabilistic Models](https://www.coursera.org/account/accomplishments/certificate/8ZR2BT4D6XHH)**
+  * Coursera
+  * Issued August 2023
+  * Credential ID: 8ZR2BT4D6XHH
+
+---
+</div>
