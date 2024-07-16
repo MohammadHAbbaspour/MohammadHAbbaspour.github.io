@@ -9,6 +9,16 @@ show: false
 toc:
   sidebar: left
 ---
+## **Reasearch Assistant**
+
+---
+
+* Natural Language Processing LAB IUST
+  * Working on sentence-transformers for semantic textual similarity
+  * Under the supervision of Dr.Sauleh Eetemadi
+
+
+<br><br>
 
 
 ## **Teaching Assitant**
@@ -84,12 +94,13 @@ toc:
 * Fundamentals of Computer Programming (Electrical Eng.)
   * Dr.Reza Entezari-Maleki
 
-<br><br><br>
+<br><br>
 
-## **Reasearch Assistant**
+
+## **Backend Developer**
 
 ---
 
-* Natural Language Processing LAB IUST
-  * Internship
-  * Under the supervision of Dr.Sauleh Eetemadi
+* Intern at Natural Language Processing Lab IUST
+  * Utilized Django to improve the backend of the website
+  * Modified the [Fake-News](https://github.com/NLPLab-IUST/Fake-News-Bot) Telegram Bot
