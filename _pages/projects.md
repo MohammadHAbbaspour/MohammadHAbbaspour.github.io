@@ -6,7 +6,7 @@ description: A growing collection of my projects.
 show: true
 nav: true
 nav_order: 5
-display_categories: [University Courses]
+display_categories: [University Courses, Coursera]
 horizontal: false
 ---
 <!-- pages/projects.md -->
