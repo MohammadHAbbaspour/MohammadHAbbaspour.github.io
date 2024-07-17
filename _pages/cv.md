@@ -4,8 +4,8 @@ permalink: /cv/
 title: CV
 nav: true
 nav_order: 5
-cv_pdf: Abbaspour.pdf
-description: This is a description of the page. You can modify it in '_pages/cv.md'. You can also change or remove the top pdf download button.
+cv_pdf: Abbaspour_cv.pdf
+description: Here is my cv. The PDF file also is downloadable from the top pdf download button.
 toc:
   sidebar: left
 ---
