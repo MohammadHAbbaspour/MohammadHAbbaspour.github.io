@@ -2,96 +2,134 @@
   type: map
   contents:
     - name: Full Name
-      value: Albert Einstein
+      value: Mohammad Hossein Abbaspour
     - name: Date of Birth
-      value: 14th March 1879
+      value: 11th February 2002
     - name: Languages
-      value: English, German
+      value: English, Persian
 
 - title: Education
   type: time_table
   contents:
-    - title: PhD
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1905
+    - title: Bachelor
+      institution: Iran University of Science and Technology, Tehran, Iran
+      year: 2020 - 2025
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
+        - title: GPA
           contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Federal teaching diploma
-      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
-      year: 1900
+            - "Last 2 years: 3.94/4 (19.41/20 Iranian scale)"
+            - "Overall (up to now) via 133 units: 3.91/4 (18.95/20 Iranian scale)"
+        - Ranked 4th among Iran universities based on QS Ranking
+    - title: Diploma in Mathematics and Physics Disipline
+      institution: Shahid Bahonar, Kuhbanan, Kerman, Iran
+      year: 2017 - 2020
       description:
-        - Description 1.
-        - Description 2.
+        - "GPA: 4/4 (19.74/20 Iranian scale)"
 
 - title: Experience
   type: time_table
   contents:
-    - title: Professor of Theoretical Physics
-      institution: Institute for Advanced Study, Princeton University
-      year: 1933 - 1955
+    - title: Research Assistant
+      institution: Natural Languages Processing Lab, Iran University of Science and Technology, Tehran
+      year: 2023 - 2024
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Visiting Professor
-      institution: California Institute of Technology, Pasadena, California, US
-      year: 1933
+        - Working on sentence-transformers for semantic textual similarity
+        -  Participating in SemEval2024 (SemEval-2024, BRAINTEASER, 11% improvement compared to the baseline)
+
+    - title: Teaching Assistant
+      institution: Iran University of Science and Technology, Tehran
+      year: 2021 - 2024
       description:
-        - Description 1.
-        - Description 2.
+        - "Software Engineering"
+        - "Operating Systems"
+        - "Artificial Intelligence"
+        - "Competitive Programming"
+        - "Digital Logic Circuits"
+        - "Theory of Languages and Automata"
+        - "Fundamentals of Database Design"
+        - "Design of Algorithms"
+        - "Data Structures"
+        - "Advanced Programming"
+        - "Discrete Mathematics"
+        - "Fundamentals of Computer Programming"
 
-    - title: Director
-      institution: Kaiser Wilhelm Institute for Physics, Berlin, Germany.
-      year: 1917-1933
-
-    - title: Professor of Theoretical Physics
-      institution: Karl-Ferdinand University, Prague, Czechoslovakia
-      year: 1911 - 1917
-      description:
-
-    - title: Associate Professor of Theoretical Physics
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1909 - 1911
+    - title: Backend Web Developer (Intern)
+      institution: Natural Language Processing Lab, Iran University of Science and Technology, Tehran
+      year: 2021
+      description: 
+        - "Utilized Django to improve the backend of the website"
+        - "Modified the Fake-News Telegram Bot"
 
 - title: Open Source Projects
   type: time_table
   contents:
-    - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
-      year: 2015-now
-      description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
+    - title: <a href="https://github.com/MohammadHAbbaspour/RAG-System">RAG-System</a>
+      year: 2024
+      description: "This is my project for NLP course. I had to implement 2 major components of this system: Retriever and Generator."
+
+    - title: <a href="https://github.com/MohammadHAbbaspour/Fine-Tune-BERT-for-Text-Classification">BERT-for-Text-Classification</a>
+      year: 2024
+      description: "This project is from Coursera. For that, I Fine tuned the BERT LLM for text classification on Quora Insincere Questions dataset."
+
+    - title: <a href="https://github.com/MohammadHAbbaspour/Persian-Sentiment-Analysis">Persian-Sentiment-Analysis</a>
+      year: 2023
+      description: "I fine tuned two llms, BERT-BASE-PARSBERT-UNCASED and XLM-ROBERTA-BASE on ArmanEmo dataset for persian sentiment analysis task."
+
+    - title: <a href="https://github.com/MohammadHAbbaspour/Semantic-Segmentation">Semantic-Segmentation</a>
+      year: 2022
+      description: "In this project I employed the MobileNetV2 architecture for segmenting the solarpanel using data augmentation."
+
+    - title: <a href="https://github.com/MohammadHAbbaspour/Object-Detection">Object-Detection</a>
+      year: 2022
+      description: "For this project I had to detect the solarpanels in an image using Yolov7."
+
+    - title: <a href="https://github.com/Projma/Projma-Back-End">Projma</a>
+      year: 2022 - 2023
+      description: "Projma is a project similar to Trello for project management and added some extra features like retro and meeting"
 
 - title: Honors and Awards
   type: time_table
   contents:
-    - year: 1921
-      items:
-        - Nobel Prize in Physics
-        - Matteucci Medal
-    - year: 2029
-      items:
-        - Max Planck Medal
+    - year: 2020
+      description: 
+        - "Ranked within the Top 0.5% in Iranian University Entrance Exam (Konkur)"
+        - Ranked 648 among 155000 students
+
+    - year: 2020 - 2024
+      description: 
+        - "Ranked among the top 5% GPA in my class"
+        - Class of about 100 students
+
+    - year: 2024
+      description: 
+        - Permitted to apply for M.Sc. program at the Department of Computer Engineering without taking the ”National Entrance Exam for Graduate Schools” as an award for exceptional talented students
+
+- title: Skills
+  type: nested_list
+  contents:
+    - title: "Programing Languages: Python, C#, CPP, C"
+    - title: "Libraries and Frameworks: Numpy, Pandas, Pytorch, Tensorflow, Transformers, OpenCV, Django"
+    - title: "Databases: SQL Server, MySQL, PostgreSQL"
+    - title: "Tools and Technologies: Git, Linux"
+
+- title: Publication
+  type: time_table
+  contents:
+    - year: 2024
+    - description: "IUST-NLPLAB at SemEval-2024 Task 9: BRAINTEASER By MPNet (Sentence Puzzle)"
 
 - title: Academic Interests
   type: nested_list
   contents:
-    - title: Topic 1.
-      items:
-        - Description 1.
-        - Description 2.
-    - title: Topic 2.
-      items:
-        - Description 1.
-        - Description 2.
+    - title: Machine Learning
+    - title: Deep Learning
+    - title: NLP / Signal Processing
+    - title: Computer Vision / Image Processing
+    - title: Reinforcement Learning
+    - title: Data Mining
+    - title: Graph Theory
 
 - title: Other Interests
   type: list
   contents:
-    - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
+    - <u>Hobbies:</u> Poetry, Music
