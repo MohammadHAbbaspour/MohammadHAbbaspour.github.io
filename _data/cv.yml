@@ -116,7 +116,7 @@
   type: time_table
   contents:
     - year: 2024
-    - description: "IUST-NLPLAB at SemEval-2024 Task 9: BRAINTEASER By MPNet (Sentence Puzzle)"
+    - description: <a href="https://www.semanticscholar.org/paper/IUST-NLPLAB-at-SemEval-2024-Task-9%3A-BRAINTEASER-By-Abbaspour-Monazzah/ff0a0706eb0263ab6c3b5ad454953f3119690790?utm_content=AuthorCitationHeader&utm_source=alert_email&utm_campaign=AlertEmails_WEEKLY&utm_term=AuthorCitation%20AuthorPaper&utm_medium=36835174">IUST-NLPLAB at SemEval-2024 Task 9:BRAINTEASER By MPNet (Sentence Puzzle)</a>
 
 - title: Academic Interests
   type: nested_list
