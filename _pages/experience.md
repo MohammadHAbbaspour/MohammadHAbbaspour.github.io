@@ -9,17 +9,26 @@ show: false
 toc:
   sidebar: left
 ---
-## **Reasearch Assistant**
+## **Research Assistant**
 
----
+* Natural Language Processing LAB IUST
+  * Studied about utilizing PEFT methods in MoE models
+  * Conducting research on the behavior of LLMs in multi-agent systems
+  * Under the supervision of Dr.Sauleh Eetemadi
+
+<br>
+
+## **Reasearch Assistant Internship**
 
 * Natural Language Processing LAB IUST
   * Working on sentence-transformers for semantic textual similarity
   * Under the supervision of Dr.Sauleh Eetemadi
 
+* NC State University
+  * Automating LLMs for content analysis
+  * under the supervision of Dr. Chau-Wai Wong
 
-<br><br>
-
+<br>
 
 ## **Teaching Assitant**
 
@@ -94,8 +103,7 @@ toc:
 * Fundamentals of Computer Programming (Electrical Eng.)
   * Dr.Reza Entezari-Maleki
 
-<br><br>
-
+<br>
 
 ## **Backend Developer**
 
