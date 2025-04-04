@@ -68,11 +68,11 @@ og_image: # The site-wide (default for all links) Open Graph preview image
 
 github_username: MohammadHAbbaspour # your GitHub user name
 gitlab_username: # your GitLab user name
-x_username: mohamazingH # your X handle
+x_username:  # your X handle
 huggingface_username: mohammadhabp
 mastodon_username:  # your mastodon instance+username in the format instance.tld/@username
 linkedin_username: mohammad-hossein-abbaspour # your LinkedIn user name
-telegram_username: M_frank_H # your Telegram user name
+telegram_username:  # your Telegram user name
 scholar_userid: # your Google Scholar ID
 semanticscholar_id: # your Semantic Scholar ID
 whatsapp_number: # your WhatsApp number (full phone number in international format. Omit any zeroes, brackets, or dashes when adding the phone number in international format.)
@@ -96,11 +96,11 @@ lastfm_id: # your lastfm id
 spotify_id: # your spotify id
 pinterest_id: # your pinterest id
 unsplash_id: # your unsplash id
-instagram_id: mohammadh_abp # your instagram id
+instagram_id:  # your instagram id
 facebook_id: # your facebook id
 youtube_id: # your youtube channel id (youtube.com/@<youtube_id>)
 discord_id: # your discord id (18-digit unique numerical identifier)
-zotero_username: mohammadhabp # your zotero username
+zotero_username:  # your zotero username
 wechat_qr: # filename of your wechat qr-code saved as an image (e.g., wechat-qr.png if saved to assets/img/wechat-qr.png)
 
 contact_note: >
