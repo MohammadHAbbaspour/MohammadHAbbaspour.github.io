@@ -2,11 +2,11 @@
 layout: page
 title: Projects
 permalink: /projects/
-description: A growing collection of my projects.
+description: A growing collection of my open source projects.
 show: true
 nav: true
 nav_order: 5
-display_categories: [University Courses, Coursera]
+display_categories: [IUST, NC State, Coursera]
 horizontal: false
 ---
 <!-- pages/projects.md -->

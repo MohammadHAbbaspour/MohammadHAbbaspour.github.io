@@ -612,14 +612,8 @@ footer.sticky-bottom {
     }
   }
 
-  .card-item {
-    width: auto;
-    margin-bottom: 10px;
-
-    .row {
-      display: flex;
-      align-items: center;
-    }
+  .col {
+    padding-bottom: 1rem;
   }
 
   .grid-sizer,
