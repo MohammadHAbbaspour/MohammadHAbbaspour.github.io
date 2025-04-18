@@ -15,10 +15,7 @@
       institution: Iran University of Science and Technology, Tehran, Iran
       year: 2020 - 2025
       description:
-        - title: GPA
-          contents:
-            - "Last 2 years: 3.94/4 (19.41/20 Iranian scale)"
-            - "Overall (up to now) via 133 units: 3.91/4 (18.95/20 Iranian scale)"
+        - "GPA: Overall (up to now) via 139 units: 3.98/4 (18.93/20 Iranian scale)"
         - Ranked 4th among Iran universities based on QS Ranking
     - title: Diploma in Mathematics and Physics Disipline
       institution: Shahid Bahonar, Kuhbanan, Kerman, Iran
@@ -29,12 +26,22 @@
 - title: Experience
   type: time_table
   contents:
+    - title: Research Assistant Internship (Remote)
+      institution: North Carolina State University
+      year: 2024 - 2025
+      description: Using multi LLM-agent to automate content analysis
     - title: Research Assistant
       institution: Natural Languages Processing Lab, Iran University of Science and Technology, Tehran
       year: 2023 - 2024
+      description: 
+        - Studied about the behavior of LLMs in multi-agent systems
+        - Studied about utilizing PEFT methods in MoE models
+    - title: Research Assistant Internship
+      institution: Natural Languages Processing Lab, Iran University of Science and Technology, Tehran
+      year: 2023
       description:
         - Working on sentence-transformers for semantic textual similarity
-        -  Participating in SemEval2024 (SemEval-2024, BRAINTEASER, 11% improvement compared to the baseline)
+        - Participating in SemEval2024 (SemEval-2024, BRAINTEASER, 11% improvement compared to the baseline)
 
     - title: Teaching Assistant
       institution: Iran University of Science and Technology, Tehran
@@ -63,6 +70,10 @@
 - title: Open Source Projects
   type: time_table
   contents:
+    - title: <a href="https://huggingface.co/mohammadhabp/dialogsum_gpt2">Chatbot</a>
+      year: 2024
+      description: "In this project I fine tuned gpt2 on dialogsum dataset to simulate conversation."
+
     - title: <a href="https://github.com/MohammadHAbbaspour/RAG-System">RAG-System</a>
       year: 2024
       description: "This is my project for NLP course. I had to implement 2 major components of this system: Retriever and Generator."
@@ -90,11 +101,6 @@
 - title: Honors and Awards
   type: time_table
   contents:
-    - year: 2020
-      description: 
-        - "Ranked within the Top 0.5% in Iranian University Entrance Exam (Konkur)"
-        - Ranked 648 among 155000 students
-
     - year: 2020 - 2024
       description: 
         - "Ranked among the top 5% GPA in my class"
@@ -103,6 +109,22 @@
     - year: 2024
       description: 
         - Permitted to apply for M.Sc. program at the Department of Computer Engineering without taking the ”National Entrance Exam for Graduate Schools” as an award for exceptional talented students
+
+    - year: 2024
+      description:
+      - Mentored teams in the CPP & Python league at "Decode Cup" contest
+
+    - year: 2023
+      description:
+      - Presenter at "CESA Share" event
+      - Honorary member of scientific association
+
+    - year: 2020
+      description: 
+        - "Ranked within the Top 0.5% in Iranian University Entrance Exam (Konkur)"
+        - Ranked 648 among 155000 students
+
+
 
 - title: Skills
   type: nested_list
@@ -123,11 +145,10 @@
   contents:
     - title: Machine Learning
     - title: Deep Learning
-    - title: NLP / Signal Processing
-    - title: Computer Vision / Image Processing
+    - title: Explainable AI
+    - title: Fairness In AI
+    - title: LLM
     - title: Reinforcement Learning
-    - title: Data Mining
-    - title: Graph Theory
 
 - title: Other Interests
   type: list
