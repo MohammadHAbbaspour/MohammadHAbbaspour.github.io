@@ -1,11 +1,11 @@
 ---
 layout: page
 title: Certificates
-permalink: /certificates/
+# permalink: /certificates/
 description: 
-nav: true
+nav: false
 nav_order: 3
-show: true
+show: false
 display_categories: [NLP, Deep Learning, Machine Learning]
 horizontal: false
 ---
