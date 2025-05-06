@@ -21,7 +21,7 @@ toc:
 
 * Computer Engineering Department at IUST
 
-  * Working on semantic textual similarity using probabilistic algorithms of text processing
+  * Worked on semantic textual similarity using probabilistic algorithms of text processing
   * Under the supervision of Dr.Sauleh Eetemadi
 
 <br>
@@ -31,25 +31,15 @@ toc:
 ---
 
 * Software Engineering
-
 * Operating Systems
-
 * Competitive Programming
-
 * Digital Logic Circuits
-
 * Theory of Languages and Automata
-
 * Fundamentals of Database Design
-
 * Design of Algorithms
-
 * Data Structures
-
 * Discrete Mathematics
-
 * Fundamentals of Computer Programming
-
 * Advanced Programming
 
 <br>

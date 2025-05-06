@@ -15,10 +15,11 @@
       institution: Iran University of Science and Technology, Tehran, Iran
       year: 2020 - 2025
       description:
-        - "GPA: Overall (up to now) via 139 units: 3.98/4 (18.93/20 Iranian scale)"
+        - "GPA: 3.98/4 (18.93/20 Iranian scale)"
+        - "Undergraduate project: Text classification using natural language processing algorithms"
         - Ranked 4th among Iran universities based on QS Ranking
     - title: Diploma in Mathematics and Physics Disipline
-      institution: Shahid Bahonar, Kuhbanan, Kerman, Iran
+      institution: Shahid Bahonar, Kohbanan, Kerman, Iran
       year: 2017 - 2020
       description:
         - "GPA: 4/4 (19.74/20 Iranian scale)"
@@ -26,30 +27,26 @@
 - title: Experience
   type: time_table
   contents:
-    - title: Research Assistant Internship (Remote)
-      institution: North Carolina State University
-      year: 2024 - 2025
-      description: Using multi LLM-agent to automate content analysis
-    - title: Research Assistant
-      institution: Natural Languages Processing Lab, Iran University of Science and Technology, Tehran
-      year: 2023 - 2024
+    - title: Undergraduate Research Assistant
+      institution: Computer Engineering Department, Iran University of Science and Technology, Tehran
+      year: 2023 - present
       description: 
-        - Studied about the behavior of LLMs in multi-agent systems
-        - Studied about utilizing PEFT methods in MoE models
-    - title: Research Assistant Internship
-      institution: Natural Languages Processing Lab, Iran University of Science and Technology, Tehran
+        - Under the supervision of Dr. Sauleh Eetemadi
+        - Working on text analysis using natural language processing and mathematical algorithms
+    - title: Undergraduate Intern
+      institution: Computer Engineering Department, Iran University of Science and Technology, Tehran
       year: 2023
       description:
-        - Working on sentence-transformers for semantic textual similarity
-        - Participating in SemEval2024 (SemEval-2024, BRAINTEASER, 11% improvement compared to the baseline)
+        - Under the supervision of Dr. Sauleh Eetemadi
+        - Worked on semantic textual similarity using probabilistic models
+        - Participating in SemEval2024 international workshop (SemEval-2024, BRAINTEASER, 11% improvement compared to the baseline)
 
     - title: Teaching Assistant
       institution: Iran University of Science and Technology, Tehran
-      year: 2021 - 2024
+      year: 2022 - 2024
       description:
         - "Software Engineering"
         - "Operating Systems"
-        - "Artificial Intelligence"
         - "Competitive Programming"
         - "Digital Logic Circuits"
         - "Theory of Languages and Automata"
@@ -60,77 +57,60 @@
         - "Discrete Mathematics"
         - "Fundamentals of Computer Programming"
 
-    - title: Backend Web Developer (Intern)
+    - title: Backend Web Developer Intern
       institution: Natural Language Processing Lab, Iran University of Science and Technology, Tehran
       year: 2021
       description: 
         - "Utilized Django to improve the backend of the website"
-        - "Modified the Fake-News Telegram Bot"
 
 - title: Open Source Projects
   type: time_table
   contents:
-    - title: <a href="https://huggingface.co/mohammadhabp/dialogsum_gpt2">Chatbot</a>
-      year: 2024
-      description: "In this project I fine tuned gpt2 on dialogsum dataset to simulate conversation."
-
     - title: <a href="https://github.com/MohammadHAbbaspour/RAG-System">RAG-System</a>
       year: 2024
-      description: "This is my project for NLP course. I had to implement 2 major components of this system: Retriever and Generator."
+      description: "This is my project for Natural Language Processing course. I had to implement 2 major components of this system: Retriever and Generator. This system is used to provide advices for psychological issues that people face with them."
 
-    - title: <a href="https://github.com/MohammadHAbbaspour/Fine-Tune-BERT-for-Text-Classification">BERT-for-Text-Classification</a>
+    - title: <a href="https://github.com/MohammadHAbbaspour/Fine-Tune-BERT-for-Text-Classification">Text-Classification</a>
       year: 2024
-      description: "This project is from Coursera. For that, I Fine tuned the BERT LLM for text classification on Quora Insincere Questions dataset."
+      description: "This project is from Coursera. For that, I fine tuned a transformer for single emotion labeling of texts."
 
     - title: <a href="https://github.com/MohammadHAbbaspour/Persian-Sentiment-Analysis">Persian-Sentiment-Analysis</a>
       year: 2023
-      description: "I fine tuned two llms, BERT-BASE-PARSBERT-UNCASED and XLM-ROBERTA-BASE on ArmanEmo dataset for persian sentiment analysis task."
+      description: "This is my project for my Natural Language Processing course in university. In this project I fine tuned some transformers for sentiment annotation of persian texts."
 
     - title: <a href="https://github.com/MohammadHAbbaspour/Semantic-Segmentation">Semantic-Segmentation</a>
       year: 2022
-      description: "In this project I employed the MobileNetV2 architecture for segmenting the solarpanel using data augmentation."
+      description: "This is my project for my Fundamentals of Computer Vision course in university. In this project I used Image Analysis algorithms for segmenting the solar panels in images."
 
     - title: <a href="https://github.com/MohammadHAbbaspour/Object-Detection">Object-Detection</a>
       year: 2022
-      description: "For this project I had to detect the solarpanels in an image using Yolov7."
+      description: "This is my project for my Fundamentals of Computer Vision course in university. In this project I used Image Analysis algorithms for detecting the solar panels in images."
 
-    - title: <a href="https://github.com/Projma/Projma-Back-End">Projma</a>
-      year: 2022 - 2023
-      description: "Projma is a project similar to Trello for project management and added some extra features like retro and meeting"
+    - title: <a href="https://github.com/MohammadHAbbaspour/DS_Project">Pharmacy-System</a>
+      year: 2021
+      description: "This is my project for my Data Structures course at university. This is a data structure to load large amounts of information about medicines and illnesses to suggest the appropriate medicine based on the query."
+
 
 - title: Honors and Awards
   type: time_table
   contents:
     - year: 2020 - 2024
       description: 
-        - "Ranked among the top 5% GPA in my class"
+        - "Ranked among the top 10% GPA in my class"
         - Class of about 100 students
 
     - year: 2024
-      description: 
-        - Permitted to apply for M.Sc. program at the Department of Computer Engineering without taking the ”National Entrance Exam for Graduate Schools” as an award for exceptional talented students
-
-    - year: 2024
       description:
-      - Mentored teams in the CPP & Python league at "Decode Cup" contest
-
-    - year: 2023
-      description:
-      - Presenter at "CESA Share" event
+      - Presenter at the Scientific Association of the Computer Engineering Departement
       - Honorary member of scientific association
-
-    - year: 2020
-      description: 
-        - "Ranked within the Top 0.5% in Iranian University Entrance Exam (Konkur)"
-        - Ranked 648 among 155000 students
-
+      - Presented my bachelor’s experience and knowledge to first year students
 
 
 - title: Skills
   type: nested_list
   contents:
     - title: "Programing Languages: Python, C#, CPP, C"
-    - title: "Libraries and Frameworks: Numpy, Pandas, Pytorch, Tensorflow, Transformers, OpenCV, Django"
+    - title: "Libraries and Frameworks: Numpy, Pandas, Transformers, OpenCV, Django"
     - title: "Databases: SQL Server, MySQL, PostgreSQL"
     - title: "Tools and Technologies: Git, Linux"
 
@@ -143,12 +123,12 @@
 - title: Academic Interests
   type: nested_list
   contents:
-    - title: Machine Learning
-    - title: Deep Learning
-    - title: Explainable AI
-    - title: Fairness In AI
-    - title: LLM
-    - title: Reinforcement Learning
+    - title: Mathematical optimization
+    - title: Algorithms
+    - title: Text Analysis
+    - title: Efficient and Interpretable Computational Methods
+    - title: Logic Programming
+
 
 - title: Other Interests
   type: list
