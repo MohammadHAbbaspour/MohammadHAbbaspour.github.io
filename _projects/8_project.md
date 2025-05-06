@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Persian Sentiment Analysis
-description: This project is for Natural Language Processing course.
+description: This is a sentiment classification of persian texts
 img:
 importance: 8
 category: IUST

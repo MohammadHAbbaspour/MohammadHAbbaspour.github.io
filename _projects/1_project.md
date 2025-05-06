@@ -1,7 +1,7 @@
 ---
 layout: page
 title: RAG System
-description: I had to implement 2 major components of this system; Retriever and Generator
+description: I had to implement 2 major components of this system Retriever and Generator
 img: 
 importance: 10
 category: IUST
