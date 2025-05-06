@@ -50,4 +50,3 @@ toc:
 
 * Intern at Natural Language Processing Lab IUST
   * Utilized Django to improve the backend of the website
-  * Modified the [Fake-News](https://github.com/NLPLab-IUST/Fake-News-Bot) Telegram Bot
