@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Object Detection
-description: I had to detect the solarpanels in an image using Yolov7
+description: I had to detect the solarpanels in an image using Image Analysis algorithms
 img: 
 importance: 11
 category: IUST

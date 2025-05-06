@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Persian Sentiment Analysis
-description: This project is for Deep Learning course.
+description: This project is for Natural Language Processing course.
 img:
 importance: 6
 category: IUST

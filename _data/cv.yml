@@ -63,7 +63,7 @@
       description: 
         - "Utilized Django to improve the backend of the website"
 
-- title: Open Source Projects
+- title: Selected Open Source Projects
   type: time_table
   contents:
     - title: <a href="https://github.com/MohammadHAbbaspour/RAG-System">RAG-System</a>

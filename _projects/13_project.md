@@ -1,11 +1,11 @@
 ---
 layout: page
-title: Implementing MLP(Function Estimation)
-description: I implemented MLP class from scratch and trained it on function estimation
+title: Function Estimation
+description: I implemented computational model from scratch and trained it on function estimation
 img: 
 importance: 12
 category: IUST
-redirect: https://github.com/MohammadHAbbaspour/Computational-Intelligence/blob/main/Implementing_MLP-Function_Estimation.ipynb
-github: https://github.com/MohammadHAbbaspour/Computational-Intelligence/blob/main/Implementing_MLP-Function_Estimation.ipynb
+redirect: https://github.com/MohammadHAbbaspour/Computational-models/blob/main/Function_Estimation.ipynb
+github: https://github.com/MohammadHAbbaspour/Computational-models/blob/main/Function_Estimation.ipynb
 related_publications: false
 ---

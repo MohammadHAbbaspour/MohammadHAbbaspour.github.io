@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Fine Tune BERT for Text Classification
+title: Text Classification
 description: Text Classification(Sincere, Insincere)
 img: 
 importance: 1

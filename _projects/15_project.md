@@ -5,7 +5,7 @@ description: In this project I had to find the roots of polynomial using Genetic
 img: 
 importance: 14
 category: IUST
-redirect: https://github.com/MohammadHAbbaspour/Computational-Intelligence/blob/main/Genetic_Programing-Roots_of_polynomials.py
-github: https://github.com/MohammadHAbbaspour/Computational-Intelligence/blob/main/Genetic_Programing-Roots_of_polynomials.py
+redirect: https://github.com/MohammadHAbbaspour/Computational-models/blob/main/Genetic_Programing-Roots_of_polynomials.py
+github: https://github.com/MohammadHAbbaspour/Computational-models/blob/main/Genetic_Programing-Roots_of_polynomials.py
 related_publications: false
 ---
