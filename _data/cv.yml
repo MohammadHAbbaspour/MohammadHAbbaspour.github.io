@@ -78,6 +78,10 @@
       year: 2023
       description: "This is my project for my Natural Language Processing course in university. In this project I fine tuned some transformers for sentiment annotation of persian texts."
 
+    - title: <a href="https://github.com/Projma/Projma-Back-End">Projma</a>
+      year: 2023
+      description: "This is my project for my System Analysis and Design course in university.Projma is a project similar to Trello for project management and added some extra features like retro and meeting."
+
     - title: <a href="https://github.com/MohammadHAbbaspour/Semantic-Segmentation">Semantic-Segmentation</a>
       year: 2022
       description: "This is my project for my Fundamentals of Computer Vision course in university. In this project I used Image Analysis algorithms for segmenting the solar panels in images."
