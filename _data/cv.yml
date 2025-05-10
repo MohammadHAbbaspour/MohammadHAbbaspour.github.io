@@ -33,6 +33,7 @@
       description: 
         - Under the supervision of Dr. Sauleh Eetemadi
         - Working on text analysis using natural language processing and mathematical algorithms
+        - Text classifying using multi-LLM
     - title: Undergraduate Intern
       institution: Computer Engineering Department, Iran University of Science and Technology, Tehran
       year: 2023
@@ -132,6 +133,7 @@
     - title: Text Analysis
     - title: Efficient and Interpretable Computational Methods
     - title: Logic Programming
+    - title: Large Language Models
 
 
 - title: Other Interests
