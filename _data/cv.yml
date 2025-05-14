@@ -28,14 +28,14 @@
   type: time_table
   contents:
     - title: Undergraduate Research Assistant
-      institution: Computer Engineering Department, Iran University of Science and Technology, Tehran
+      institution: NLP Lab, Computer Engineering Department, Iran University of Science and Technology, Tehran
       year: 2023 - present
       description: 
         - Under the supervision of Dr. Sauleh Eetemadi
         - Working on text analysis using natural language processing and mathematical algorithms
         - Text classifying using multi-LLM
     - title: Undergraduate Intern
-      institution: Computer Engineering Department, Iran University of Science and Technology, Tehran
+      institution: NLP Lab, Computer Engineering Department, Iran University of Science and Technology, Tehran
       year: 2023
       description:
         - Under the supervision of Dr. Sauleh Eetemadi
@@ -43,7 +43,7 @@
         - Participating in SemEval2024 international workshop (SemEval-2024, BRAINTEASER, 11% improvement compared to the baseline)
 
     - title: Teaching Assistant
-      institution: Iran University of Science and Technology, Tehran
+      institution: Computer Engineering Department, Iran University of Science and Technology, Tehran
       year: 2022 - 2024
       description:
         - "Software Engineering"
@@ -58,13 +58,14 @@
         - "Discrete Mathematics"
         - "Fundamentals of Computer Programming"
 
-    - title: Backend Web Developer Intern
-      institution: Natural Language Processing Lab, Iran University of Science and Technology, Tehran
+    - title: Backend Web Developer Intern (Remote)
+      institution: NLP Lab, Computer Engineering Department, Iran University of Science and Technology, Tehran
       year: 2021
       description: 
+        - "Under the supervision of Dr. Sauleh Eetemadi"
         - "Utilized Django to improve the backend of the website"
 
-- title: Selected Open Source Projects
+- title: Selected Projects
   type: time_table
   contents:
     - title: <a href="https://github.com/MohammadHAbbaspour/RAG-System">RAG-System</a>
