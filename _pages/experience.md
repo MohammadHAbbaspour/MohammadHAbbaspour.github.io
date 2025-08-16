@@ -9,12 +9,22 @@ show: false
 toc:
   sidebar: left
 ---
+## **Research Assistant Internship (Remote)**
+
+* NC State University, Department of Electrical and Computer Engineering
+* Under the supervision of Dr. Chau-Wai Wong
+* Automating LLMs for content analysis
+* Conducting statistical evaluation for model performance monitoring and improvement
+* Using prompt engineering and tuning to improve the performance of the LLMs
+
+<br>
+
 ## **Undergraduate Research Assistant**
 
 * NLP Lab, Department of Computer Engineering, IUST
 * Under the supervision of Dr.Sauleh Eetemadi
-* Working on text analysis using natural language processing and mathematical algorithms
-* Text classifying using multi-LLM
+* Conducting research on the behavior of LLMs in multi-agent systems, utilizing for text labeling
+* Studied about utilizing PEFT methods in MoE models
 
 <br>
 
@@ -22,7 +32,7 @@ toc:
 
 * NLP Lab, Department of Computer Engineering, IUST
 * Under the supervision of Dr.Sauleh Eetemadi
-* Worked on semantic textual similarity using probabilistic algorithms of text processing
+* Worked on sentence-transformers for semantic textual similarity
 * Participated in SemEval2024 international workshop ([SemEval-2024, BRAINTEASER](https://brainteasersem.github.io/), 11% improvement compared to the baseline)
 
 <br>

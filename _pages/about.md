@@ -17,7 +17,7 @@ latest_posts: false # includes a list of the newest posts
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
-Hi. My name is MohammadHossein Abbaspour; an undergraduate Computer Engineering student at [IUST](http://www.iust.ac.ir/en).
+Hi. My name is MohammadHossein Abbaspour; a Computer Engineering student at [IUST](http://www.iust.ac.ir/en).
 
 ### **Introduction**
 
