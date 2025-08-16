@@ -11,7 +11,7 @@ nav_order: 2
 
 * Iran University of Science and Technology, Tehran, Iran
 * Ranked **4th** among Iran Universities based on QS Ranking
-* **GPA**: 3.91/4.0 (18.93/20.0 Iranian scale)
+* **GPA**: 3.98/4.0 (18.95/20.0 Iranian scale)
 * **Undergraduate project**: LLM-based multi-agent system on text classification and analyzing their behavior
 * Ranked among the **top 5%** GPA in my class
 
